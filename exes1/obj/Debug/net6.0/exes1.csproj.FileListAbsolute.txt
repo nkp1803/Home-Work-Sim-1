@@ -1,0 +1,15 @@
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\bin\Debug\net6.0\exes1.exe
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\bin\Debug\net6.0\exes1.deps.json
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\bin\Debug\net6.0\exes1.runtimeconfig.json
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\bin\Debug\net6.0\exes1.dll
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\bin\Debug\net6.0\exes1.pdb
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\obj\Debug\net6.0\exes1.csproj.AssemblyReference.cache
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\obj\Debug\net6.0\exes1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\obj\Debug\net6.0\exes1.AssemblyInfoInputs.cache
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\obj\Debug\net6.0\exes1.AssemblyInfo.cs
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\obj\Debug\net6.0\exes1.csproj.CoreCompileInputs.cache
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\obj\Debug\net6.0\exes1.dll
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\obj\Debug\net6.0\refint\exes1.dll
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\obj\Debug\net6.0\exes1.pdb
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\obj\Debug\net6.0\exes1.genruntimeconfig.cache
+D:\ОБУЧЕНИЕ ГИГ БРЕЙНС\Практика в проге гит\С#семинар\HW\exes1\obj\Debug\net6.0\ref\exes1.dll
